@@ -1,0 +1,39 @@
+{
+  "name": "stylelint-config-za",
+  "version": "0.0.1",
+  "description": "ZhongAn Health stylelint config.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.zhonganonline.com/linqun/eslint-config-za"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "standard",
+    "za",
+    "zhongan",
+    "css",
+    "scss",
+    "styleguide"
+  ],
+  "author": "Lin Qun",
+  "license": "MIT",
+  "homepage": "http://gitlab.zhonganonline.com/linqun/stylelint-config-za",
+  "dependencies": {
+    "stylelint-config-standard": "^17.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-za": "0.1.0",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "engines": {
+    "node": ">= 4"
+  }
+}
