@@ -24,14 +24,14 @@
   "license": "MIT",
   "homepage": "http://gitlab.zhonganonline.com/linqun/stylelint-config-za",
   "dependencies": {
-    "stylelint-config-standard": "^16.0.0"
+    "stylelint-config-standard": "^20.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-za": "0.1.0",
-    "eslint-plugin-import": "^2.6.1",
-    "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.1.0"
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-config-za": "^2.3.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-import": "^2.22.1"
   },
   "engines": {
     "node": ">= 4"
