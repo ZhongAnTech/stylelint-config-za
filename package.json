@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-za",
-  "version": "0.2.0",
+  "version": "0.3.0-alpha.1",
   "description": "ZhongAn Health stylelint config.",
   "main": "index.js",
   "scripts": {
@@ -33,9 +33,6 @@
     "eslint-config-za": "^2.3.0",
     "eslint-plugin-babel": "^5.3.1",
     "eslint-plugin-import": "^2.22.1"
-  },
-  "peerDependencies": {
-    "stylelint-scss": "^3.18.0"
   },
   "engines": {
     "node": ">= 4"
